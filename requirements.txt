@@ -1,0 +1,5 @@
+langchain
+unstructured
+"unstructured[pdf]"
+faiss-cpu
+langchain-google-genai
